@@ -12,7 +12,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [IRC][ircurl] on freenode at `#linuxserver.io`
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
-# lsioarmhf/letsencrypt
+# lsioarmhf/letsencrypt-aarch64
 [![](https://images.microbadger.com/badges/version/lsioarmhf/letsencrypt.svg)](https://microbadger.com/images/lsioarmhf/letsencrypt "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/letsencrypt.svg)](https://microbadger.com/images/lsioarmhf/letsencrypt "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/letsencrypt.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/letsencrypt.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/armhf/armhf-letsencrypt)](https://ci.linuxserver.io/job/Docker-Builders/job/armhf/job/armhf-letsencrypt/)
 
 This container sets up an Nginx webserver and reverse proxy with php support and a built-in letsencrypt client that automates free SSL server certificate generation and renewal processes. It also contains fail2ban for intrusion prevention.
