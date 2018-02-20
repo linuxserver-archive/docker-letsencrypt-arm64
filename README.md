@@ -106,5 +106,6 @@ In this instance `PUID=1001` and `PGID=1001`. To find yours use `id user` as bel
 
 ## Versions
 
++ **20.02.18:** Sanitize variables, increase log verbosity
 + **01.21.18:** Fix repos in info, bring up to date with x86-64 and armhf
 + **31.01.18:** Initial release
